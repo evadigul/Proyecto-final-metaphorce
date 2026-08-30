@@ -1,0 +1,11 @@
+{
+    "nombre_negocio": "LAMBRINSTOCK",
+    "moneda": "MXN",
+    "simbolo_moneda": "$",
+    "costo_mano_obra_m2": 180.00,
+    "dias_alerta_antiguedad": 90,
+    "stock_minimo_alerta": 10,
+    "porcentaje_desperdicio": 10,
+    "iva_porcentaje": 0,
+    "version": "1.1.0"
+}
